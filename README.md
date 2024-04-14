@@ -8,6 +8,7 @@ I was mainly inspired by:<br>
 - Dani Clode's "Third Thumb" Project (https://www.daniclodedesign.com/thethirdthumb)<br>
 - Will Cogley's bionic hand (https://www.youtube.com/watch?v=A7lJxBpecAY)<br>
 - and Ian Davis's Prosthetic hand (https://www.youtube.com/watch?v=luapSa8c9CM)
+<br><br>
 
 I have wanted to make a project like this for a very long time. I have had projects similar to this in the past related to prosthetics but never have done something to this scale or success.
 Keep in mind that only the idea of the project was used. everything was designed from scratch by me during Hack KU.
