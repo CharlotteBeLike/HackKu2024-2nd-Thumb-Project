@@ -1,0 +1,5 @@
+![PXL_20240414_080513720_exported_760_1713082044837](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/51e8677d-f383-406f-ab64-fd9e7838458e)
+![PXL_20240414_075147208](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/b808c091-896e-49ed-b689-688853b78cf3)
+![PXL_20240414_075222511](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/79aa0400-04bd-4513-afb5-90ee1bf83ab0)
+![PXL_20240414_075253274](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/bb484126-905d-47fd-a9b8-bf983b07c77d)
+![PXL_20240413_141403575](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/2414ca8b-6a71-4ee7-b068-db9ccf2410f7)
