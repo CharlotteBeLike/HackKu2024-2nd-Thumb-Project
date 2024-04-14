@@ -47,3 +47,6 @@ I wish I could have worked with a teammate, but I ended up going solo for the fo
 - I use very specific/unpopular software that I know others don't use which would make collaboration difficult.
 - Lets be honest, this is an insane idea. No normal person does this for fun, and I know I wouldn't find anyone who would want to join my idea.
 - I'm a high schooler. I'm self taught. I have never took classes on CAD, mechanical engineering, Arduino etc. If anyone joins me, they will likely not know anything about this and wont have a reliable teacher (the reliable teacher being me lol), or they will be way above my skill level and I will drag them down.
+<br><br><br>
+<h2> Want to see more photos?</h2>
+head down to the <a href="https://www.klipper3d.org/Overview.html">Gallery folder/a> to see more!
