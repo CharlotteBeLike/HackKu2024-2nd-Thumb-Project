@@ -14,11 +14,11 @@ I have wanted to make a project like this for a very long time. I have had proje
 Keep in mind that only the idea of the project was used. everything was designed from scratch by me during Hack KU.
 
 <h2> Why did I change it?</h2>
-The main issue I have with the old design is its tendon based design. Lots of projects creating replicas of hands and arms use tendon based systems to move limbs; after all, our bodies use tendons and we see our body as the best solution for us. Although tendons are a decent solution for this, there are lots of problems with it:
-- Tension of lines
-- Open loop (when a system outputs a signal but does not receive feedback. ex: common FDM 3d printer)
-- Damage overtime from simple environments
-- Inaccuracies
+The main issue I have with the old design is its tendon based design. Lots of projects creating replicas of hands and arms use tendon based systems to move limbs; after all, our bodies use tendons and we see our body as the best solution for us. Although tendons are a decent solution for this, there are lots of problems with it:<br>
+- Tension of lines<br>
+- Open loop (when a system outputs a signal but does not receive feedback. ex: common FDM 3d printer)<br>
+- Damage overtime from simple environments<br>
+- Inaccuracies<br>
 
 <h2> What it does</h2>
 It gives you a second thumb on your hand. Thumbs are the most useful part of the human body and makes us distinct from other animals, so how useful would it be to have two?
@@ -38,16 +38,16 @@ Potentiometers, Servos, Arduino, etc.
 Servos were a big one in this project and Its going to be nice to use this in the future
 
 <h2> What's next for 2nd Thumb/6th finger</h2>
-I want to keep working on this project for personal daily use. Some things I wish I could have added, but wasn't able to are:
-- Haptic feedback to touch
-- wireless control using for ex your foot to control the hand
-- more degrees of freedom
+I want to keep working on this project for personal daily use. Some things I wish I could have added, but wasn't able to are:<br>
+- Haptic feedback to touch<br>
+- wireless control using for ex your foot to control the hand<br>
+- more degrees of freedom<br>
 
 <h2> Why didn't I bring a team member?</h2>
-I wish I could have worked with a teammate, but I ended up going solo for the following reasons:
-- I use very specific/unpopular software that I know others don't use which would make collaboration difficult.
-- Lets be honest, this is an insane idea. No normal person does this for fun, and I know I wouldn't find anyone who would want to join my idea.
-- I'm a high schooler. I'm self taught. I have never took classes on CAD, mechanical engineering, Arduino etc. If anyone joins me, they will likely not know anything about this and wont have a reliable teacher (the reliable teacher being me lol), or they will be way above my skill level and I will drag them down.
+I wish I could have worked with a teammate, but I ended up going solo for the following reasons:<br>
+- I use very specific/unpopular software that I know others don't use which would make collaboration difficult.<br>
+- Lets be honest, this is an insane idea. No normal person does this for fun, and I know I wouldn't find anyone who would want to join my idea.<br>
+- I'm a high schooler. I'm self taught. I have never took classes on CAD, mechanical engineering, Arduino etc. If anyone joins me, they will likely not know anything about this and wont have a reliable teacher (the reliable teacher being me lol), or they will be way above my skill level and I will drag them down.<br>
 <br><br><br>
 <h2> Want to see more photos?</h2>
 head down to the <a href="https://www.klipper3d.org/Overview.html">Gallery folder/a> to see more!
