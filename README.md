@@ -4,9 +4,9 @@ The 2nd Thumb project was created during during HackKu. It was inspired by Dani 
 ![Screenshot from 2024-04-14 04-35-17](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/baa643fd-8540-4d36-91be-6b111d9568a6)
 <br><br>
 <h2> How was I Inspired </h2>
-I was mainly inspired by:
-- Dani Clode's "Third Thumb" Project (https://www.daniclodedesign.com/thethirdthumb)
-- Will Cogley's bionic hand (https://www.youtube.com/watch?v=A7lJxBpecAY)
+I was mainly inspired by:<br>
+- Dani Clode's "Third Thumb" Project (https://www.daniclodedesign.com/thethirdthumb)<br>
+- Will Cogley's bionic hand (https://www.youtube.com/watch?v=A7lJxBpecAY)<br>
 - and Ian Davis's Prosthetic hand (https://www.youtube.com/watch?v=luapSa8c9CM)
 
 I have wanted to make a project like this for a very long time. I have had projects similar to this in the past related to prosthetics but never have done something to this scale or success.
